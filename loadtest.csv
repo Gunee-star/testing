@@ -1,0 +1,348 @@
+1579774839469,1020,Listing-Filter(4.1),200,OK,Async-API-Testing 1-14,text,true,,6518,226,50,50,https://stg-api-v2.shearshare.com/api/v4.1/SalonListing/listing-filters,1016,0,491
+1579774839470,2529,Listing-Filter(4.1),200,OK,Async-API-Testing 1-5,text,true,,6512,226,50,50,https://stg-api-v2.shearshare.com/api/v4.1/SalonListing/listing-filters,2529,0,489
+1579774839469,2530,Listing-Filter(4.1),200,OK,Async-API-Testing 1-13,text,true,,6518,226,50,50,https://stg-api-v2.shearshare.com/api/v4.1/SalonListing/listing-filters,2530,0,492
+1579774840501,1745,Host-Listing,200,OK,Async-API-Testing 1-14,text,true,,2497,223,50,50,https://stg-api-v2.shearshare.com/api/v4.1/SalonListing/host-listing,1745,0,0
+1579774839471,2886,Listing-Filter(4.1),200,OK,Async-API-Testing 1-9,text,true,,6518,226,50,50,https://stg-api-v2.shearshare.com/api/v4.1/SalonListing/listing-filters,2886,0,601
+1579774839472,2947,Listing-Filter(4.1),200,OK,Async-API-Testing 1-6,text,true,,6519,226,50,50,https://stg-api-v2.shearshare.com/api/v4.1/SalonListing/listing-filters,2946,0,600
+1579774839470,2949,Listing-Filter(4.1),200,OK,Async-API-Testing 1-33,text,true,,6512,226,50,50,https://stg-api-v2.shearshare.com/api/v4.1/SalonListing/listing-filters,2949,0,603
+1579774842001,552,Host-Listing,200,OK,Async-API-Testing 1-5,text,true,,2497,223,50,50,https://stg-api-v2.shearshare.com/api/v4.1/SalonListing/host-listing,552,0,15
+1579774842001,553,Host-Listing,200,OK,Async-API-Testing 1-13,text,true,,2504,223,50,50,https://stg-api-v2.shearshare.com/api/v4.1/SalonListing/host-listing,553,0,16
+1579774839471,3082,Listing-Filter(4.1),200,OK,Async-API-Testing 1-49,text,true,,6519,226,50,50,https://stg-api-v2.shearshare.com/api/v4.1/SalonListing/listing-filters,3081,0,609
+1579774842246,446,Host-Listing-management,200,OK,Async-API-Testing 1-14,text,true,,394,246,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/host-listing-management?ListingId=353,446,0,16
+1579774839469,3223,Listing-Filter(4.1),200,OK,Async-API-Testing 1-34,text,true,,6512,226,50,50,https://stg-api-v2.shearshare.com/api/v4.1/SalonListing/listing-filters,3223,0,492
+1579774839469,3357,Listing-Filter(4.1),200,OK,Async-API-Testing 1-19,text,true,,6519,226,50,50,https://stg-api-v2.shearshare.com/api/v4.1/SalonListing/listing-filters,3357,0,724
+1579774839469,3358,Listing-Filter(4.1),200,OK,Async-API-Testing 1-47,text,true,,6519,226,50,50,https://stg-api-v2.shearshare.com/api/v4.1/SalonListing/listing-filters,3357,0,726
+1579774839469,3358,Listing-Filter(4.1),200,OK,Async-API-Testing 1-11,text,true,,6519,226,50,50,https://stg-api-v2.shearshare.com/api/v4.1/SalonListing/listing-filters,3357,0,723
+1579774839470,3358,Listing-Filter(4.1),200,OK,Async-API-Testing 1-2,text,true,,6519,226,50,50,https://stg-api-v2.shearshare.com/api/v4.1/SalonListing/listing-filters,3358,0,714
+1579774839469,3360,Listing-Filter(4.1),200,OK,Async-API-Testing 1-23,text,true,,6512,226,50,50,https://stg-api-v2.shearshare.com/api/v4.1/SalonListing/listing-filters,3360,0,726
+1579774839470,3359,Listing-Filter(4.1),200,OK,Async-API-Testing 1-27,text,true,,6512,226,50,50,https://stg-api-v2.shearshare.com/api/v4.1/SalonListing/listing-filters,3359,0,724
+1579774839470,3627,Listing-Filter(4.1),200,OK,Async-API-Testing 1-29,text,true,,6519,226,50,50,https://stg-api-v2.shearshare.com/api/v4.1/SalonListing/listing-filters,3627,0,713
+1579774839471,3643,Listing-Filter(4.1),200,OK,Async-API-Testing 1-32,text,true,,6512,226,50,50,https://stg-api-v2.shearshare.com/api/v4.1/SalonListing/listing-filters,3642,0,866
+1579774839469,3645,Listing-Filter(4.1),200,OK,Async-API-Testing 1-7,text,true,,6512,226,50,50,https://stg-api-v2.shearshare.com/api/v4.1/SalonListing/listing-filters,3644,0,825
+1579774839472,3642,Listing-Filter(4.1),200,OK,Async-API-Testing 1-24,text,true,,6512,226,50,50,https://stg-api-v2.shearshare.com/api/v4.1/SalonListing/listing-filters,3642,0,844
+1579774839469,3646,Listing-Filter(4.1),200,OK,Async-API-Testing 1-31,text,true,,6512,226,50,50,https://stg-api-v2.shearshare.com/api/v4.1/SalonListing/listing-filters,3646,0,950
+1579774839471,3645,Listing-Filter(4.1),200,OK,Async-API-Testing 1-50,text,true,,6512,226,50,50,https://stg-api-v2.shearshare.com/api/v4.1/SalonListing/listing-filters,3645,0,849
+1579774839472,3644,Listing-Filter(4.1),200,OK,Async-API-Testing 1-45,text,true,,6512,226,50,50,https://stg-api-v2.shearshare.com/api/v4.1/SalonListing/listing-filters,3644,0,890
+1579774839468,3648,Listing-Filter(4.1),200,OK,Async-API-Testing 1-4,text,true,,6512,226,50,50,https://stg-api-v2.shearshare.com/api/v4.1/SalonListing/listing-filters,3648,0,871
+1579774839470,3647,Listing-Filter(4.1),200,OK,Async-API-Testing 1-35,text,true,,6519,226,50,50,https://stg-api-v2.shearshare.com/api/v4.1/SalonListing/listing-filters,3642,0,836
+1579774839469,3649,Listing-Filter(4.1),200,OK,Async-API-Testing 1-26,text,true,,6512,226,50,50,https://stg-api-v2.shearshare.com/api/v4.1/SalonListing/listing-filters,3649,0,918
+1579774839469,3650,Listing-Filter(4.1),200,OK,Async-API-Testing 1-3,text,true,,6518,226,50,50,https://stg-api-v2.shearshare.com/api/v4.1/SalonListing/listing-filters,3649,0,784
+1579774839468,3652,Listing-Filter(4.1),200,OK,Async-API-Testing 1-43,text,true,,6512,226,50,50,https://stg-api-v2.shearshare.com/api/v4.1/SalonListing/listing-filters,3652,0,833
+1579774839470,3791,Listing-Filter(4.1),200,OK,Async-API-Testing 1-39,text,true,,6518,226,50,50,https://stg-api-v2.shearshare.com/api/v4.1/SalonListing/listing-filters,3677,0,867
+1579774839468,3793,Listing-Filter(4.1),200,OK,Async-API-Testing 1-44,text,true,,6525,226,50,50,https://stg-api-v2.shearshare.com/api/v4.1/SalonListing/listing-filters,3650,0,879
+1579774839469,3792,Listing-Filter(4.1),200,OK,Async-API-Testing 1-36,text,true,,6518,226,50,50,https://stg-api-v2.shearshare.com/api/v4.1/SalonListing/listing-filters,3650,0,899
+1579774839472,3791,Listing-Filter(4.1),200,OK,Async-API-Testing 1-30,text,true,,6518,226,50,50,https://stg-api-v2.shearshare.com/api/v4.1/SalonListing/listing-filters,3790,0,864
+1579774839470,3795,Listing-Filter(4.1),200,OK,Async-API-Testing 1-46,text,true,,6519,226,50,50,https://stg-api-v2.shearshare.com/api/v4.1/SalonListing/listing-filters,3794,0,917
+1579774839469,3796,Listing-Filter(4.1),200,OK,Async-API-Testing 1-10,text,true,,6519,226,50,50,https://stg-api-v2.shearshare.com/api/v4.1/SalonListing/listing-filters,3796,0,919
+1579774839469,3797,Listing-Filter(4.1),200,OK,Async-API-Testing 1-20,text,true,,6512,226,50,50,https://stg-api-v2.shearshare.com/api/v4.1/SalonListing/listing-filters,3797,0,916
+1579774839469,3797,Listing-Filter(4.1),200,OK,Async-API-Testing 1-40,text,true,,6512,226,50,50,https://stg-api-v2.shearshare.com/api/v4.1/SalonListing/listing-filters,3797,0,917
+1579774839469,3798,Listing-Filter(4.1),200,OK,Async-API-Testing 1-41,text,true,,6512,226,50,50,https://stg-api-v2.shearshare.com/api/v4.1/SalonListing/listing-filters,3798,0,948
+1579774839469,3798,Listing-Filter(4.1),200,OK,Async-API-Testing 1-18,text,true,,6512,226,50,50,https://stg-api-v2.shearshare.com/api/v4.1/SalonListing/listing-filters,3798,0,924
+1579774839469,3800,Listing-Filter(4.1),200,OK,Async-API-Testing 1-1,text,true,,6512,226,50,50,https://stg-api-v2.shearshare.com/api/v4.1/SalonListing/listing-filters,3800,0,893
+1579774839469,3800,Listing-Filter(4.1),200,OK,Async-API-Testing 1-15,text,true,,6512,226,50,50,https://stg-api-v2.shearshare.com/api/v4.1/SalonListing/listing-filters,3800,0,844
+1579774839469,3801,Listing-Filter(4.1),200,OK,Async-API-Testing 1-42,text,true,,6512,226,50,50,https://stg-api-v2.shearshare.com/api/v4.1/SalonListing/listing-filters,3801,0,917
+1579774839469,3802,Listing-Filter(4.1),200,OK,Async-API-Testing 1-25,text,true,,6512,226,50,50,https://stg-api-v2.shearshare.com/api/v4.1/SalonListing/listing-filters,3802,0,893
+1579774839469,3804,Listing-Filter(4.1),200,OK,Async-API-Testing 1-21,text,true,,6512,226,50,50,https://stg-api-v2.shearshare.com/api/v4.1/SalonListing/listing-filters,3804,0,870
+1579774839472,3803,Listing-Filter(4.1),200,OK,Async-API-Testing 1-22,text,true,,6512,226,50,50,https://stg-api-v2.shearshare.com/api/v4.1/SalonListing/listing-filters,3803,0,934
+1579774839469,3807,Listing-Filter(4.1),200,OK,Async-API-Testing 1-37,text,true,,6512,226,50,50,https://stg-api-v2.shearshare.com/api/v4.1/SalonListing/listing-filters,3807,0,924
+1579774839471,3815,Listing-Filter(4.1),200,OK,Async-API-Testing 1-16,text,true,,6519,226,50,50,https://stg-api-v2.shearshare.com/api/v4.1/SalonListing/listing-filters,3814,0,943
+1579774839470,3825,Listing-Filter(4.1),200,OK,Async-API-Testing 1-8,text,true,,6512,226,50,50,https://stg-api-v2.shearshare.com/api/v4.1/SalonListing/listing-filters,3825,0,915
+1579774839469,3940,Listing-Filter(4.1),200,OK,Async-API-Testing 1-28,text,true,,6518,226,50,50,https://stg-api-v2.shearshare.com/api/v4.1/SalonListing/listing-filters,3829,0,899
+1579774839469,3940,Listing-Filter(4.1),200,OK,Async-API-Testing 1-48,text,true,,6532,226,50,50,https://stg-api-v2.shearshare.com/api/v4.1/SalonListing/listing-filters,3827,0,945
+1579774842554,856,Host-Listing-management,200,OK,Async-API-Testing 1-13,text,true,,394,246,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/host-listing-management?ListingId=353,856,0,0
+1579774839468,3942,Listing-Filter(4.1),200,OK,Async-API-Testing 1-38,text,true,,6512,226,50,50,https://stg-api-v2.shearshare.com/api/v4.1/SalonListing/listing-filters,3942,0,938
+1579774842359,1052,Host-Listing,200,OK,Async-API-Testing 1-9,text,true,,2497,223,50,50,https://stg-api-v2.shearshare.com/api/v4.1/SalonListing/host-listing,1052,0,15
+1579774842554,1352,Host-Listing-management,200,OK,Async-API-Testing 1-5,text,true,,394,246,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/host-listing-management?ListingId=353,1352,0,0
+1579774842693,1213,Get-List-Price,200,OK,Async-API-Testing 1-14,text,true,,280,240,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-listing-price?ListingId=353,1213,0,0
+1579774839468,4439,Listing-Filter(4.1),200,OK,Async-API-Testing 1-17,text,true,,6512,226,50,50,https://stg-api-v2.shearshare.com/api/v4.1/SalonListing/listing-filters,4438,0,952
+1579774842420,1502,Host-Listing,200,OK,Async-API-Testing 1-6,text,true,,2497,223,50,50,https://stg-api-v2.shearshare.com/api/v4.1/SalonListing/host-listing,1502,0,15
+1579774842420,1513,Host-Listing,200,OK,Async-API-Testing 1-33,text,true,,2504,223,50,50,https://stg-api-v2.shearshare.com/api/v4.1/SalonListing/host-listing,1512,0,16
+1579774839469,4463,Listing-Filter(4.1),200,OK,Async-API-Testing 1-12,text,true,,6518,226,50,50,https://stg-api-v2.shearshare.com/api/v4.1/SalonListing/listing-filters,4463,0,953
+1579774842554,1619,Host-Listing,200,OK,Async-API-Testing 1-49,text,true,,2497,223,50,50,https://stg-api-v2.shearshare.com/api/v4.1/SalonListing/host-listing,1619,0,15
+1579774842693,1481,Host-Listing,200,OK,Async-API-Testing 1-34,text,true,,2497,223,50,50,https://stg-api-v2.shearshare.com/api/v4.1/SalonListing/host-listing,1481,0,15
+1579774843412,841,Host-Listing-management,200,OK,Async-API-Testing 1-9,text,true,,394,246,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/host-listing-management?ListingId=353,841,0,0
+1579774842829,1424,Host-Listing,200,OK,Async-API-Testing 1-2,text,true,,2497,223,50,50,https://stg-api-v2.shearshare.com/api/v4.1/SalonListing/host-listing,1424,0,16
+1579774842827,1427,Host-Listing,200,OK,Async-API-Testing 1-19,text,true,,2497,223,50,50,https://stg-api-v2.shearshare.com/api/v4.1/SalonListing/host-listing,1427,0,19
+1579774842828,1760,Host-Listing,200,OK,Async-API-Testing 1-47,text,true,,2497,223,50,50,https://stg-api-v2.shearshare.com/api/v4.1/SalonListing/host-listing,1425,0,19
+1579774843410,1178,Get-List-Price,200,OK,Async-API-Testing 1-13,text,true,,280,240,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-listing-price?ListingId=353,843,0,0
+1579774843267,1321,Host-Listing,200,OK,Async-API-Testing 1-20,text,true,,2497,223,50,50,https://stg-api-v2.shearshare.com/api/v4.1/SalonListing/host-listing,1321,0,45
+1579774842830,1758,Host-Listing,200,OK,Async-API-Testing 1-27,text,true,,2497,223,50,50,https://stg-api-v2.shearshare.com/api/v4.1/SalonListing/host-listing,1758,0,27
+1579774842828,1760,Host-Listing,200,OK,Async-API-Testing 1-11,text,true,,2497,223,50,50,https://stg-api-v2.shearshare.com/api/v4.1/SalonListing/host-listing,1426,0,19
+1579774842830,1760,Host-Listing,200,OK,Async-API-Testing 1-23,text,true,,2504,223,50,50,https://stg-api-v2.shearshare.com/api/v4.1/SalonListing/host-listing,1759,0,24
+1579774843099,1491,Host-Listing,200,OK,Async-API-Testing 1-29,text,true,,2497,223,50,50,https://stg-api-v2.shearshare.com/api/v4.1/SalonListing/host-listing,1491,0,19
+1579774843907,683,Get-List-Price,200,OK,Async-API-Testing 1-5,text,true,,280,240,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-listing-price?ListingId=353,683,0,0
+1579774843119,1472,Host-Listing,200,OK,Async-API-Testing 1-26,text,true,,2504,223,50,50,https://stg-api-v2.shearshare.com/api/v4.1/SalonListing/host-listing,1471,0,28
+1579774843117,1475,Host-Listing,200,OK,Async-API-Testing 1-50,text,true,,2497,223,50,50,https://stg-api-v2.shearshare.com/api/v4.1/SalonListing/host-listing,1474,0,32
+1579774843121,1471,Host-Listing,200,OK,Async-API-Testing 1-43,text,true,,2497,223,50,50,https://stg-api-v2.shearshare.com/api/v4.1/SalonListing/host-listing,1471,0,54
+1579774843116,1476,Host-Listing,200,OK,Async-API-Testing 1-24,text,true,,2497,223,50,50,https://stg-api-v2.shearshare.com/api/v4.1/SalonListing/host-listing,1476,0,32
+1579774843118,1474,Host-Listing,200,OK,Async-API-Testing 1-45,text,true,,2497,223,50,50,https://stg-api-v2.shearshare.com/api/v4.1/SalonListing/host-listing,1474,0,53
+1579774843268,1325,Host-Listing,200,OK,Async-API-Testing 1-41,text,true,,2497,223,50,50,https://stg-api-v2.shearshare.com/api/v4.1/SalonListing/host-listing,1325,0,56
+1579774843264,1329,Host-Listing,200,OK,Async-API-Testing 1-30,text,true,,2497,223,50,50,https://stg-api-v2.shearshare.com/api/v4.1/SalonListing/host-listing,1329,0,59
+1579774843115,1479,Host-Listing,200,OK,Async-API-Testing 1-32,text,true,,2497,223,50,50,https://stg-api-v2.shearshare.com/api/v4.1/SalonListing/host-listing,1478,0,45
+1579774843270,1324,Host-Listing,200,OK,Async-API-Testing 1-1,text,true,,2497,223,50,50,https://stg-api-v2.shearshare.com/api/v4.1/SalonListing/host-listing,1324,0,54
+1579774843262,1332,Host-Listing,200,OK,Async-API-Testing 1-39,text,true,,2497,223,50,50,https://stg-api-v2.shearshare.com/api/v4.1/SalonListing/host-listing,1332,0,23
+1579774843266,1329,Host-Listing,200,OK,Async-API-Testing 1-46,text,true,,2497,223,50,50,https://stg-api-v2.shearshare.com/api/v4.1/SalonListing/host-listing,1329,0,59
+1579774843287,1308,Host-Listing,200,OK,Async-API-Testing 1-16,text,true,,2497,223,50,50,https://stg-api-v2.shearshare.com/api/v4.1/SalonListing/host-listing,1308,0,36
+1579774843272,1323,Host-Listing,200,OK,Async-API-Testing 1-25,text,true,,2497,223,50,50,https://stg-api-v2.shearshare.com/api/v4.1/SalonListing/host-listing,1323,0,53
+1579774843271,1324,Host-Listing,200,OK,Async-API-Testing 1-15,text,true,,2497,223,50,50,https://stg-api-v2.shearshare.com/api/v4.1/SalonListing/host-listing,1324,0,30
+1579774843266,1330,Host-Listing,200,OK,Async-API-Testing 1-10,text,true,,2497,223,50,50,https://stg-api-v2.shearshare.com/api/v4.1/SalonListing/host-listing,1330,0,60
+1579774843118,1478,Host-Listing,200,OK,Async-API-Testing 1-4,text,true,,2497,223,50,50,https://stg-api-v2.shearshare.com/api/v4.1/SalonListing/host-listing,1478,0,43
+1579774843118,1479,Host-Listing,200,OK,Async-API-Testing 1-35,text,true,,2497,223,50,50,https://stg-api-v2.shearshare.com/api/v4.1/SalonListing/host-listing,1479,0,57
+1579774843267,1330,Host-Listing,200,OK,Async-API-Testing 1-40,text,true,,2497,223,50,50,https://stg-api-v2.shearshare.com/api/v4.1/SalonListing/host-listing,1330,0,55
+1579774843120,1478,Host-Listing,200,OK,Async-API-Testing 1-3,text,true,,2497,223,50,50,https://stg-api-v2.shearshare.com/api/v4.1/SalonListing/host-listing,1478,0,50
+1579774843117,1481,Host-Listing,200,OK,Async-API-Testing 1-31,text,true,,2497,223,50,50,https://stg-api-v2.shearshare.com/api/v4.1/SalonListing/host-listing,1481,0,55
+1579774843274,1469,Host-Listing,200,OK,Async-API-Testing 1-21,text,true,,2497,223,50,50,https://stg-api-v2.shearshare.com/api/v4.1/SalonListing/host-listing,1469,0,51
+1579774843296,1447,Host-Listing,200,OK,Async-API-Testing 1-8,text,true,,2497,223,50,50,https://stg-api-v2.shearshare.com/api/v4.1/SalonListing/host-listing,1447,0,30
+1579774843268,1476,Host-Listing,200,OK,Async-API-Testing 1-18,text,true,,2497,223,50,50,https://stg-api-v2.shearshare.com/api/v4.1/SalonListing/host-listing,1476,0,59
+1579774843115,1629,Host-Listing,200,OK,Async-API-Testing 1-7,text,true,,2497,223,50,50,https://stg-api-v2.shearshare.com/api/v4.1/SalonListing/host-listing,1629,0,56
+1579774843277,1468,Host-Listing,200,OK,Async-API-Testing 1-37,text,true,,2497,223,50,50,https://stg-api-v2.shearshare.com/api/v4.1/SalonListing/host-listing,1467,0,58
+1579774843262,1483,Host-Listing,200,OK,Async-API-Testing 1-36,text,true,,2497,223,50,50,https://stg-api-v2.shearshare.com/api/v4.1/SalonListing/host-listing,1483,0,37
+1579774843933,810,Host-Listing-management,200,OK,Async-API-Testing 1-33,text,true,,394,246,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/host-listing-management?ListingId=353,810,0,0
+1579774843276,1469,Host-Listing,200,OK,Async-API-Testing 1-22,text,true,,2497,223,50,50,https://stg-api-v2.shearshare.com/api/v4.1/SalonListing/host-listing,1469,0,61
+1579774843262,1484,Host-Listing,200,OK,Async-API-Testing 1-44,text,true,,2497,223,50,50,https://stg-api-v2.shearshare.com/api/v4.1/SalonListing/host-listing,1484,0,39
+1579774843271,1475,Host-Listing,200,OK,Async-API-Testing 1-42,text,true,,2497,223,50,50,https://stg-api-v2.shearshare.com/api/v4.1/SalonListing/host-listing,1475,0,63
+1579774843922,870,Host-Listing-management,200,OK,Async-API-Testing 1-6,text,true,,394,246,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/host-listing-management?ListingId=353,870,0,0
+1579774843410,1383,Host-Listing,200,OK,Async-API-Testing 1-28,text,true,,2497,223,50,50,https://stg-api-v2.shearshare.com/api/v4.1/SalonListing/host-listing,1382,0,15
+1579774843410,1418,Host-Listing,200,OK,Async-API-Testing 1-48,text,true,,2504,223,50,50,https://stg-api-v2.shearshare.com/api/v4.1/SalonListing/host-listing,1418,0,16
+1579774843411,1422,Host-Listing,200,OK,Async-API-Testing 1-38,text,true,,2504,223,50,50,https://stg-api-v2.shearshare.com/api/v4.1/SalonListing/host-listing,1422,0,16
+1579774844173,1182,Host-Listing-management,200,OK,Async-API-Testing 1-49,text,true,,394,246,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/host-listing-management?ListingId=353,1182,0,0
+1579774843907,1448,Get-Listing-Hours,200,OK,Async-API-Testing 1-14,text,true,,972,240,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-listing-hours?ListingId=353,1448,0,0
+1579774844175,1180,Host-Listing-management,200,OK,Async-API-Testing 1-34,text,true,,394,246,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/host-listing-management?ListingId=353,1180,0,0
+1579774843934,1429,Host-Listing,200,OK,Async-API-Testing 1-12,text,true,,2497,223,50,50,https://stg-api-v2.shearshare.com/api/v4.1/SalonListing/host-listing,1429,0,14
+1579774843908,1460,Host-Listing,200,OK,Async-API-Testing 1-17,text,true,,2497,223,50,50,https://stg-api-v2.shearshare.com/api/v4.1/SalonListing/host-listing,1460,0,15
+1579774844253,1222,Get-List-Price,200,OK,Async-API-Testing 1-9,text,true,,280,240,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-listing-price?ListingId=353,1222,0,0
+1579774844253,1222,Host-Listing-management,200,OK,Async-API-Testing 1-2,text,true,,394,246,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/host-listing-management?ListingId=353,1222,0,0
+1579774844255,1220,Host-Listing-management,200,OK,Async-API-Testing 1-19,text,true,,394,246,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/host-listing-management?ListingId=353,1220,0,0
+1579774844590,1346,Host-Listing-management,200,OK,Async-API-Testing 1-29,text,true,,394,246,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/host-listing-management?ListingId=353,1346,0,0
+1579774844589,1347,Host-Listing-management,200,OK,Async-API-Testing 1-11,text,true,,394,246,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/host-listing-management?ListingId=353,1347,0,0
+1579774844592,1344,Host-Listing-management,200,OK,Async-API-Testing 1-50,text,true,,394,246,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/host-listing-management?ListingId=353,1344,0,0
+1579774844591,1345,Host-Listing-management,200,OK,Async-API-Testing 1-26,text,true,,394,246,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/host-listing-management?ListingId=353,1345,0,0
+1579774844593,1344,Host-Listing-management,200,OK,Async-API-Testing 1-45,text,true,,394,246,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/host-listing-management?ListingId=353,1344,0,0
+1579774844596,1341,Host-Listing-management,200,OK,Async-API-Testing 1-15,text,true,,394,246,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/host-listing-management?ListingId=353,1341,0,0
+1579774844592,1346,Host-Listing-management,200,OK,Async-API-Testing 1-43,text,true,,394,246,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/host-listing-management?ListingId=353,1346,0,0
+1579774844594,1344,Host-Listing-management,200,OK,Async-API-Testing 1-30,text,true,,394,246,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/host-listing-management?ListingId=353,1344,0,0
+1579774844594,1344,Host-Listing-management,200,OK,Async-API-Testing 1-1,text,true,,394,246,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/host-listing-management?ListingId=353,1344,0,0
+1579774844597,1341,Host-Listing-management,200,OK,Async-API-Testing 1-35,text,true,,394,246,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/host-listing-management?ListingId=353,1341,0,0
+1579774844595,1343,Host-Listing-management,200,OK,Async-API-Testing 1-16,text,true,,394,246,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/host-listing-management?ListingId=353,1343,0,0
+1579774844595,1344,Host-Listing-management,200,OK,Async-API-Testing 1-46,text,true,,394,246,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/host-listing-management?ListingId=353,1344,0,0
+1579774844744,1195,Host-Listing-management,200,OK,Async-API-Testing 1-21,text,true,,394,246,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/host-listing-management?ListingId=353,1195,0,0
+1579774844588,1351,Host-Listing-management,200,OK,Async-API-Testing 1-47,text,true,,394,246,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/host-listing-management?ListingId=353,1351,0,0
+1579774844593,1347,Host-Listing-management,200,OK,Async-API-Testing 1-41,text,true,,394,246,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/host-listing-management?ListingId=353,1346,0,0
+1579774844598,1342,Host-Listing-management,200,OK,Async-API-Testing 1-40,text,true,,394,246,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/host-listing-management?ListingId=353,1342,0,0
+1579774844590,1350,Host-Listing-management,200,OK,Async-API-Testing 1-23,text,true,,394,246,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/host-listing-management?ListingId=353,1350,0,0
+1579774844596,1344,Host-Listing-management,200,OK,Async-API-Testing 1-10,text,true,,394,246,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/host-listing-management?ListingId=353,1344,0,0
+1579774844589,1352,Host-Listing-management,200,OK,Async-API-Testing 1-20,text,true,,394,246,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/host-listing-management?ListingId=353,1352,0,0
+1579774844595,1346,Host-Listing-management,200,OK,Async-API-Testing 1-25,text,true,,394,246,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/host-listing-management?ListingId=353,1346,0,0
+1579774844744,1197,Host-Listing-management,200,OK,Async-API-Testing 1-18,text,true,,394,246,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/host-listing-management?ListingId=353,1197,0,0
+1579774844589,1352,Host-Listing-management,200,OK,Async-API-Testing 1-27,text,true,,394,246,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/host-listing-management?ListingId=353,1352,0,0
+1579774844592,1350,Host-Listing-management,200,OK,Async-API-Testing 1-24,text,true,,394,246,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/host-listing-management?ListingId=353,1350,0,0
+1579774844745,1197,Host-Listing-management,200,OK,Async-API-Testing 1-37,text,true,,394,246,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/host-listing-management?ListingId=353,1197,0,0
+1579774844746,1196,Host-Listing-management,200,OK,Async-API-Testing 1-42,text,true,,394,246,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/host-listing-management?ListingId=353,1196,0,0
+1579774844594,1348,Host-Listing-management,200,OK,Async-API-Testing 1-39,text,true,,394,246,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/host-listing-management?ListingId=353,1348,0,0
+1579774844594,1349,Host-Listing-management,200,OK,Async-API-Testing 1-32,text,true,,394,246,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/host-listing-management?ListingId=353,1348,0,0
+1579774844598,1345,Host-Listing-management,200,OK,Async-API-Testing 1-31,text,true,,394,246,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/host-listing-management?ListingId=353,1345,0,0
+1579774844596,1348,Host-Listing-management,200,OK,Async-API-Testing 1-4,text,true,,394,246,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/host-listing-management?ListingId=353,1348,0,0
+1579774844744,1201,Host-Listing-management,200,OK,Async-API-Testing 1-8,text,true,,394,246,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/host-listing-management?ListingId=353,1201,0,0
+1579774844598,1347,Host-Listing-management,200,OK,Async-API-Testing 1-3,text,true,,394,246,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/host-listing-management?ListingId=353,1347,0,0
+1579774844744,1203,Host-Listing-management,200,OK,Async-API-Testing 1-7,text,true,,394,246,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/host-listing-management?ListingId=353,1203,0,0
+1579774844745,1263,Host-Listing-management,200,OK,Async-API-Testing 1-22,text,true,,394,246,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/host-listing-management?ListingId=353,1263,0,0
+1579774844745,1264,Get-List-Price,200,OK,Async-API-Testing 1-33,text,true,,280,240,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-listing-price?ListingId=353,1264,0,15
+1579774844792,1218,Get-List-Price,200,OK,Async-API-Testing 1-6,text,true,,280,240,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-listing-price?ListingId=353,1218,0,15
+1579774844746,1272,Host-Listing-management,200,OK,Async-API-Testing 1-44,text,true,,394,246,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/host-listing-management?ListingId=353,1198,0,0
+1579774844745,1278,Host-Listing-management,200,OK,Async-API-Testing 1-36,text,true,,394,246,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/host-listing-management?ListingId=353,1278,0,0
+1579774844793,1232,Host-Listing-management,200,OK,Async-API-Testing 1-28,text,true,,394,246,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/host-listing-management?ListingId=353,1231,0,0
+1579774844834,1231,Host-Listing-management,200,OK,Async-API-Testing 1-38,text,true,,394,246,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/host-listing-management?ListingId=353,1231,0,0
+1579774844828,1242,Host-Listing-management,200,OK,Async-API-Testing 1-48,text,true,,394,246,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/host-listing-management?ListingId=353,1198,0,0
+1579774845368,729,Host-Listing-management,200,OK,Async-API-Testing 1-17,text,true,,394,246,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/host-listing-management?ListingId=353,729,0,0
+1579774845363,1249,Host-Listing-management,200,OK,Async-API-Testing 1-12,text,true,,394,246,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/host-listing-management?ListingId=353,735,0,0
+1579774844588,2033,Get-Listing-Hours,200,OK,Async-API-Testing 1-13,text,true,,972,240,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-listing-hours?ListingId=353,2033,0,20
+1579774845355,1266,Get-List-Price,200,OK,Async-API-Testing 1-34,text,true,,280,240,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-listing-price?ListingId=353,1266,0,15
+1579774845355,1267,Get-List-Price,200,OK,Async-API-Testing 1-49,text,true,,280,240,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-listing-price?ListingId=353,1267,0,16
+1579774844590,2033,Get-Listing-Hours,200,OK,Async-API-Testing 1-5,text,true,,972,240,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-listing-hours?ListingId=353,2033,0,20
+1579774845938,985,Get-List-Price,200,OK,Async-API-Testing 1-1,text,true,,280,240,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-listing-price?ListingId=353,985,0,44
+1579774845475,1448,Get-List-Price,200,OK,Async-API-Testing 1-19,text,true,,280,240,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-listing-price?ListingId=353,1448,0,17
+1579774845937,986,Get-List-Price,200,OK,Async-API-Testing 1-45,text,true,,280,240,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-listing-price?ListingId=353,986,0,32
+1579774845940,983,Get-List-Price,200,OK,Async-API-Testing 1-41,text,true,,280,240,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-listing-price?ListingId=353,983,0,42
+1579774845936,988,Get-List-Price,200,OK,Async-API-Testing 1-50,text,true,,280,240,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-listing-price?ListingId=353,988,0,19
+1579774845939,985,Get-List-Price,200,OK,Async-API-Testing 1-21,text,true,,280,240,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-listing-price?ListingId=353,985,0,44
+1579774845475,1449,Get-List-Price,200,OK,Async-API-Testing 1-2,text,true,,280,240,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-listing-price?ListingId=353,1449,0,16
+1579774845937,987,Get-List-Price,200,OK,Async-API-Testing 1-26,text,true,,280,240,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-listing-price?ListingId=353,987,0,31
+1579774845937,987,Get-List-Price,200,OK,Async-API-Testing 1-11,text,true,,280,240,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-listing-price?ListingId=353,987,0,40
+1579774845946,1182,Get-List-Price,200,OK,Async-API-Testing 1-3,text,true,,280,240,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-listing-price?ListingId=353,1182,0,47
+1579774845936,1193,Get-List-Price,200,OK,Async-API-Testing 1-29,text,true,,280,240,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-listing-price?ListingId=353,988,0,19
+1579774845938,1191,Get-List-Price,200,OK,Async-API-Testing 1-15,text,true,,280,240,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-listing-price?ListingId=353,1191,0,56
+1579774845938,1191,Get-List-Price,200,OK,Async-API-Testing 1-30,text,true,,280,240,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-listing-price?ListingId=353,1191,0,54
+1579774845941,1188,Get-List-Price,200,OK,Async-API-Testing 1-18,text,true,,280,240,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-listing-price?ListingId=353,1188,0,113
+1579774845941,1189,Get-List-Price,200,OK,Async-API-Testing 1-25,text,true,,280,240,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-listing-price?ListingId=353,1188,0,52
+1579774845942,1188,Get-List-Price,200,OK,Async-API-Testing 1-37,text,true,,280,240,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-listing-price?ListingId=353,1188,0,65
+1579774846008,1122,Get-List-Price,200,OK,Async-API-Testing 1-22,text,true,,280,240,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-listing-price?ListingId=353,1122,0,19
+1579774845945,1185,Get-List-Price,200,OK,Async-API-Testing 1-8,text,true,,280,240,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-listing-price?ListingId=353,1185,0,81
+1579774845943,1188,Get-List-Price,200,OK,Async-API-Testing 1-31,text,true,,280,240,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-listing-price?ListingId=353,1188,0,46
+1579774845940,1191,Get-List-Price,200,OK,Async-API-Testing 1-47,text,true,,280,240,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-listing-price?ListingId=353,1191,0,83
+1579774845947,1184,Get-List-Price,200,OK,Async-API-Testing 1-7,text,true,,280,240,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-listing-price?ListingId=353,1184,0,54
+1579774845941,1192,Get-List-Price,200,OK,Async-API-Testing 1-10,text,true,,280,240,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-listing-price?ListingId=353,1191,0,70
+1579774845938,1195,Get-List-Price,200,OK,Async-API-Testing 1-43,text,true,,280,240,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-listing-price?ListingId=353,1195,0,81
+1579774845942,1191,Get-List-Price,200,OK,Async-API-Testing 1-27,text,true,,280,240,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-listing-price?ListingId=353,1191,0,114
+1579774845939,1194,Get-List-Price,200,OK,Async-API-Testing 1-46,text,true,,280,240,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-listing-price?ListingId=353,1194,0,68
+1579774845942,1191,Get-List-Price,200,OK,Async-API-Testing 1-42,text,true,,280,240,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-listing-price?ListingId=353,1191,0,105
+1579774846018,1116,Get-List-Price,200,OK,Async-API-Testing 1-44,text,true,,280,240,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-listing-price?ListingId=353,1116,0,38
+1579774845941,1193,Get-List-Price,200,OK,Async-API-Testing 1-23,text,true,,280,240,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-listing-price?ListingId=353,1193,0,129
+1579774845942,1192,Get-List-Price,200,OK,Async-API-Testing 1-24,text,true,,280,240,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-listing-price?ListingId=353,1192,0,128
+1579774845939,1196,Get-List-Price,200,OK,Async-API-Testing 1-35,text,true,,280,240,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-listing-price?ListingId=353,1195,0,81
+1579774845942,1193,Get-List-Price,200,OK,Async-API-Testing 1-39,text,true,,280,240,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-listing-price?ListingId=353,1193,0,127
+1579774845940,1195,Get-List-Price,200,OK,Async-API-Testing 1-40,text,true,,280,240,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-listing-price?ListingId=353,1195,0,131
+1579774845943,1192,Get-List-Price,200,OK,Async-API-Testing 1-32,text,true,,280,240,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-listing-price?ListingId=353,1192,0,136
+1579774846024,1111,Get-List-Price,200,OK,Async-API-Testing 1-36,text,true,,280,240,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-listing-price?ListingId=353,1111,0,31
+1579774845941,1284,Get-List-Price,200,OK,Async-API-Testing 1-20,text,true,,280,240,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-listing-price?ListingId=353,1195,0,131
+1579774846065,1166,Get-List-Price,200,OK,Async-API-Testing 1-38,text,true,,280,240,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-listing-price?ListingId=353,1166,0,15
+1579774845944,1287,Get-List-Price,200,OK,Async-API-Testing 1-4,text,true,,280,240,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-listing-price?ListingId=353,1287,0,145
+1579774845939,1292,Get-List-Price,200,OK,Async-API-Testing 1-16,text,true,,280,240,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-listing-price?ListingId=353,1292,0,151
+1579774846071,1160,Get-List-Price,200,OK,Async-API-Testing 1-48,text,true,,280,240,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-listing-price?ListingId=353,1160,0,33
+1579774846097,1135,Get-List-Price,200,OK,Async-API-Testing 1-17,text,true,,280,240,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-listing-price?ListingId=353,1134,0,15
+1579774846025,1207,Get-List-Price,200,OK,Async-API-Testing 1-28,text,true,,280,240,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-listing-price?ListingId=353,1206,0,80
+1579774846613,965,Get-List-Price,200,OK,Async-API-Testing 1-12,text,true,,280,240,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-listing-price?ListingId=353,965,0,16
+1579774845475,2103,Get-Listing-Hours,200,OK,Async-API-Testing 1-9,text,true,,972,240,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-listing-hours?ListingId=353,2103,0,15
+1579774846009,1806,Get-Listing-Hours,200,OK,Async-API-Testing 1-33,text,true,,972,240,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-listing-hours?ListingId=353,1806,0,0
+1579774846010,1805,Get-Listing-Hours,200,OK,Async-API-Testing 1-6,text,true,,972,240,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-listing-hours?ListingId=353,1805,0,0
+1579774846623,1953,Get-Listing-Hours,200,OK,Async-API-Testing 1-49,text,true,,972,240,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-listing-hours?ListingId=353,1952,0,0
+1579774846622,1954,Get-Listing-Hours,200,OK,Async-API-Testing 1-34,text,true,,972,240,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-listing-hours?ListingId=353,1954,0,0
+1579774846923,2683,Get-Listing-Hours,200,OK,Async-API-Testing 1-45,text,true,,972,240,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-listing-hours?ListingId=353,2683,0,0
+1579774847131,2475,Get-Listing-Hours,200,OK,Async-API-Testing 1-47,text,true,,972,240,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-listing-hours?ListingId=353,2475,0,0
+1579774846923,2684,Get-Listing-Hours,200,OK,Async-API-Testing 1-41,text,true,,972,240,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-listing-hours?ListingId=353,2683,0,0
+1579774847130,2477,Get-Listing-Hours,200,OK,Async-API-Testing 1-37,text,true,,972,240,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-listing-hours?ListingId=353,2477,0,0
+1579774846924,2683,Get-Listing-Hours,200,OK,Async-API-Testing 1-50,text,true,,972,240,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-listing-hours?ListingId=353,2683,0,0
+1579774847129,2479,Get-Listing-Hours,200,OK,Async-API-Testing 1-29,text,true,,972,240,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-listing-hours?ListingId=353,2479,0,0
+1579774847134,2474,Get-Listing-Hours,200,OK,Async-API-Testing 1-24,text,true,,972,240,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-listing-hours?ListingId=353,2474,0,0
+1579774846925,2684,Get-Listing-Hours,200,OK,Async-API-Testing 1-26,text,true,,972,240,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-listing-hours?ListingId=353,2684,0,0
+1579774846924,2685,Get-Listing-Hours,200,OK,Async-API-Testing 1-21,text,true,,972,240,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-listing-hours?ListingId=353,2685,0,0
+1579774847130,2479,Get-Listing-Hours,200,OK,Async-API-Testing 1-8,text,true,,972,240,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-listing-hours?ListingId=353,2479,0,0
+1579774846924,2686,Get-Listing-Hours,200,OK,Async-API-Testing 1-2,text,true,,972,240,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-listing-hours?ListingId=353,2686,0,0
+1579774847130,2481,Get-Listing-Hours,200,OK,Async-API-Testing 1-18,text,true,,972,240,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-listing-hours?ListingId=353,2481,0,0
+1579774847130,2476,Get-Listing-Hours,200,OK,Async-API-Testing 1-25,text,true,,972,240,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-listing-hours?ListingId=353,2476,0,0
+1579774847129,2483,Get-Listing-Hours,200,OK,Async-API-Testing 1-30,text,true,,972,240,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-listing-hours?ListingId=353,2483,0,0
+1579774847131,2481,Get-Listing-Hours,200,OK,Async-API-Testing 1-31,text,true,,972,240,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-listing-hours?ListingId=353,2481,0,0
+1579774847131,2485,Get-Listing-Hours,200,OK,Async-API-Testing 1-7,text,true,,972,240,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-listing-hours?ListingId=353,2485,0,0
+1579774847129,2488,Get-Listing-Hours,200,OK,Async-API-Testing 1-15,text,true,,972,240,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-listing-hours?ListingId=353,2488,0,0
+1579774847135,2716,Get-Listing-Hours,200,OK,Async-API-Testing 1-39,text,true,,972,240,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-listing-hours?ListingId=353,2716,0,0
+1579774847134,2717,Get-Listing-Hours,200,OK,Async-API-Testing 1-44,text,true,,972,240,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-listing-hours?ListingId=353,2717,0,0
+1579774847133,2718,Get-Listing-Hours,200,OK,Async-API-Testing 1-42,text,true,,972,240,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-listing-hours?ListingId=353,2718,0,0
+1579774846923,2930,Get-Listing-Hours,200,OK,Async-API-Testing 1-1,text,true,,972,240,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-listing-hours?ListingId=353,2930,0,0
+1579774847133,2720,Get-Listing-Hours,200,OK,Async-API-Testing 1-46,text,true,,972,240,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-listing-hours?ListingId=353,2720,0,0
+1579774847135,2718,Get-Listing-Hours,200,OK,Async-API-Testing 1-40,text,true,,972,240,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-listing-hours?ListingId=353,2718,0,0
+1579774847128,2725,Get-Listing-Hours,200,OK,Async-API-Testing 1-3,text,true,,972,240,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-listing-hours?ListingId=353,2723,0,0
+1579774847133,2721,Get-Listing-Hours,200,OK,Async-API-Testing 1-10,text,true,,972,240,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-listing-hours?ListingId=353,2721,0,0
+1579774847130,2724,Get-Listing-Hours,200,OK,Async-API-Testing 1-22,text,true,,972,240,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-listing-hours?ListingId=353,2724,0,0
+1579774847134,2721,Get-Listing-Hours,200,OK,Async-API-Testing 1-23,text,true,,972,240,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-listing-hours?ListingId=353,2720,0,0
+1579774847135,2720,Get-Listing-Hours,200,OK,Async-API-Testing 1-32,text,true,,972,240,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-listing-hours?ListingId=353,2720,0,0
+1579774846925,2931,Get-Listing-Hours,200,OK,Async-API-Testing 1-11,text,true,,972,240,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-listing-hours?ListingId=353,2931,0,0
+1579774847133,2724,Get-Listing-Hours,200,OK,Async-API-Testing 1-27,text,true,,972,240,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-listing-hours?ListingId=353,2724,0,0
+1579774846923,2934,Get-Listing-Hours,200,OK,Async-API-Testing 1-19,text,true,,972,240,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-listing-hours?ListingId=353,2934,0,0
+1579774847133,2724,Get-Listing-Hours,200,OK,Async-API-Testing 1-43,text,true,,972,240,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-listing-hours?ListingId=353,2724,0,0
+1579774847136,2799,Get-Listing-Hours,200,OK,Async-API-Testing 1-36,text,true,,972,240,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-listing-hours?ListingId=353,2799,0,0
+1579774847231,2705,Get-Listing-Hours,200,OK,Async-API-Testing 1-38,text,true,,972,240,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-listing-hours?ListingId=353,2705,0,0
+1579774847232,2705,Get-Listing-Hours,200,OK,Async-API-Testing 1-17,text,true,,972,240,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-listing-hours?ListingId=353,2705,0,0
+1579774847135,2802,Get-Listing-Hours,200,OK,Async-API-Testing 1-35,text,true,,972,240,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-listing-hours?ListingId=353,2802,0,0
+1579774847231,2760,Get-Listing-Hours,200,OK,Async-API-Testing 1-16,text,true,,972,240,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-listing-hours?ListingId=353,2749,0,0
+1579774847231,2761,Get-Listing-Hours,200,OK,Async-API-Testing 1-4,text,true,,972,240,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-listing-hours?ListingId=353,2761,0,0
+1579774847225,2768,Get-Listing-Hours,200,OK,Async-API-Testing 1-20,text,true,,972,240,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-listing-hours?ListingId=353,2768,0,0
+1579774847231,2762,Get-Listing-Hours,200,OK,Async-API-Testing 1-48,text,true,,972,240,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-listing-hours?ListingId=353,2762,0,0
+1579774847578,3472,Get-Listing-Hours,200,OK,Async-API-Testing 1-12,text,true,,972,240,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-listing-hours?ListingId=353,3471,0,0
+1579774847232,3818,Get-Listing-Hours,200,OK,Async-API-Testing 1-28,text,true,,972,240,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-listing-hours?ListingId=353,3817,0,0
+1579774849611,27612,Get-List-Dates,400,Bad Request,Async-API-Testing 1-18,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/",287,277,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-list-dates?ListingId=353&StartDate=2020-01-01&EndDate=2020-12-31,27612,0,62
+1579774847578,29645,Get-List-Dates,400,Bad Request,Async-API-Testing 1-9,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/",287,277,50,50,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-list-dates?ListingId=353&StartDate=2020-01-01&EndDate=2020-12-31,29644,0,15
+1579774851050,26175,Get-List-Dates,400,Bad Request,Async-API-Testing 1-12,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/",287,277,48,48,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-list-dates?ListingId=353&StartDate=2020-01-01&EndDate=2020-12-31,26175,0,15
+1579774848576,29987,Get-List-Dates,400,Bad Request,Async-API-Testing 1-49,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/",287,277,47,47,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-list-dates?ListingId=353&StartDate=2020-01-01&EndDate=2020-12-31,29987,0,15
+1579774849607,28956,Get-List-Dates,400,Bad Request,Async-API-Testing 1-37,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/",287,277,47,47,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-list-dates?ListingId=353&StartDate=2020-01-01&EndDate=2020-12-31,28956,0,52
+1579774849854,28710,Get-List-Dates,400,Bad Request,Async-API-Testing 1-40,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/",287,277,47,47,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-list-dates?ListingId=353&StartDate=2020-01-01&EndDate=2020-12-31,28710,0,42
+1579774848576,29988,Get-List-Dates,400,Bad Request,Async-API-Testing 1-34,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/",287,277,47,47,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-list-dates?ListingId=353&StartDate=2020-01-01&EndDate=2020-12-31,29988,0,16
+1579774847816,30748,Get-List-Dates,400,Bad Request,Async-API-Testing 1-33,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[4]]]00
+
+****** comparison: [[[2]]]00
+
+/",287,277,47,47,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-list-dates?ListingId=353&StartDate=2020-01-01&EndDate=2020-12-31,30748,0,15
+1579774849608,32317,Get-List-Dates,200,OK,Async-API-Testing 1-29,text,true,,1228,277,42,42,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-list-dates?ListingId=353&StartDate=2020-01-01&EndDate=2020-12-31,32317,0,52
+1579774846622,35842,Get-List-Dates,200,OK,Async-API-Testing 1-13,text,true,,1228,277,41,41,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-list-dates?ListingId=353&StartDate=2020-01-01&EndDate=2020-12-31,35195,0,15
+1579774849852,32612,Get-List-Dates,200,OK,Async-API-Testing 1-42,text,true,,1228,277,41,41,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-list-dates?ListingId=353&StartDate=2020-01-01&EndDate=2020-12-31,32612,0,29
+1579774849935,32529,Get-List-Dates,200,OK,Async-API-Testing 1-36,text,true,,1228,277,41,41,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-list-dates?ListingId=353&StartDate=2020-01-01&EndDate=2020-12-31,32529,0,16
+1579774849609,32855,Get-List-Dates,200,OK,Async-API-Testing 1-24,text,true,,1228,277,41,41,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-list-dates?ListingId=353&StartDate=2020-01-01&EndDate=2020-12-31,32855,0,22
+1579774849609,32856,Get-List-Dates,200,OK,Async-API-Testing 1-21,text,true,,1228,277,39,39,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-list-dates?ListingId=353&StartDate=2020-01-01&EndDate=2020-12-31,32856,0,51
+1579774849612,32853,Get-List-Dates,200,OK,Async-API-Testing 1-31,text,true,,1228,277,37,37,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-list-dates?ListingId=353&StartDate=2020-01-01&EndDate=2020-12-31,32853,0,68
+1579774849853,32612,Get-List-Dates,200,OK,Async-API-Testing 1-46,text,true,,1228,277,37,37,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-list-dates?ListingId=353&StartDate=2020-01-01&EndDate=2020-12-31,32612,0,28
+1579774849854,32612,Get-List-Dates,200,OK,Async-API-Testing 1-10,text,true,,1228,277,35,35,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-list-dates?ListingId=353&StartDate=2020-01-01&EndDate=2020-12-31,32612,0,27
+1579774849611,32969,Get-List-Dates,200,OK,Async-API-Testing 1-25,text,true,,1228,277,33,33,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-list-dates?ListingId=353&StartDate=2020-01-01&EndDate=2020-12-31,32886,0,57
+1579774849994,32587,Get-List-Dates,200,OK,Async-API-Testing 1-20,text,true,,1228,277,33,33,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-list-dates?ListingId=353&StartDate=2020-01-01&EndDate=2020-12-31,32587,0,15
+1579774849856,32727,Get-List-Dates,200,OK,Async-API-Testing 1-11,text,true,,1228,277,31,31,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-list-dates?ListingId=353&StartDate=2020-01-01&EndDate=2020-12-31,32727,0,47
+1579774849857,32741,Get-List-Dates,200,OK,Async-API-Testing 1-43,text,true,,1228,277,30,30,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-list-dates?ListingId=353&StartDate=2020-01-01&EndDate=2020-12-31,32741,0,52
+1579774849610,32999,Get-List-Dates,200,OK,Async-API-Testing 1-2,text,true,,1228,277,29,29,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-list-dates?ListingId=353&StartDate=2020-01-01&EndDate=2020-12-31,32999,0,58
+1579774851050,31559,Get-List-Dates,200,OK,Async-API-Testing 1-28,text,true,,1228,277,29,29,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-list-dates?ListingId=353&StartDate=2020-01-01&EndDate=2020-12-31,31559,0,15
+1579774849992,32618,Get-List-Dates,200,OK,Async-API-Testing 1-16,text,true,,1228,277,27,27,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-list-dates?ListingId=353&StartDate=2020-01-01&EndDate=2020-12-31,32618,0,16
+1579774849608,33089,Get-List-Dates,200,OK,Async-API-Testing 1-50,text,true,,1228,277,26,26,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-list-dates?ListingId=353&StartDate=2020-01-01&EndDate=2020-12-31,33089,0,59
+1579774849855,32842,Get-List-Dates,200,OK,Async-API-Testing 1-23,text,true,,1228,277,26,26,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-list-dates?ListingId=353&StartDate=2020-01-01&EndDate=2020-12-31,32842,0,49
+1579774849606,33123,Get-List-Dates,200,OK,Async-API-Testing 1-45,text,true,,1228,277,24,24,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-list-dates?ListingId=353&StartDate=2020-01-01&EndDate=2020-12-31,33123,0,54
+1579774849854,32896,Get-List-Dates,200,OK,Async-API-Testing 1-3,text,true,,1228,277,23,23,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-list-dates?ListingId=353&StartDate=2020-01-01&EndDate=2020-12-31,32896,0,49
+1579774849853,32899,Get-List-Dates,200,OK,Async-API-Testing 1-1,text,true,,1228,277,22,22,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-list-dates?ListingId=353&StartDate=2020-01-01&EndDate=2020-12-31,32899,0,27
+1579774849607,33211,Get-List-Dates,200,OK,Async-API-Testing 1-47,text,true,,1228,277,21,21,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-list-dates?ListingId=353&StartDate=2020-01-01&EndDate=2020-12-31,32982,0,64
+1579774846624,36195,Get-List-Dates,200,OK,Async-API-Testing 1-5,text,true,,1228,277,21,21,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-list-dates?ListingId=353&StartDate=2020-01-01&EndDate=2020-12-31,36140,0,15
+1579774849937,32882,Get-List-Dates,200,OK,Async-API-Testing 1-35,text,true,,1228,277,21,21,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-list-dates?ListingId=353&StartDate=2020-01-01&EndDate=2020-12-31,32882,0,18
+1579774849857,32962,Get-List-Dates,200,OK,Async-API-Testing 1-19,text,true,,1228,277,21,21,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-list-dates?ListingId=353&StartDate=2020-01-01&EndDate=2020-12-31,32962,0,48
+1579774849937,32882,Get-List-Dates,200,OK,Async-API-Testing 1-17,text,true,,1228,277,18,18,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-list-dates?ListingId=353&StartDate=2020-01-01&EndDate=2020-12-31,32882,0,15
+1579774849852,32968,Get-List-Dates,200,OK,Async-API-Testing 1-39,text,true,,1228,277,18,18,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-list-dates?ListingId=353&StartDate=2020-01-01&EndDate=2020-12-31,32898,0,52
+1579774849993,32827,Get-List-Dates,200,OK,Async-API-Testing 1-48,text,true,,1228,277,17,17,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-list-dates?ListingId=353&StartDate=2020-01-01&EndDate=2020-12-31,32827,0,16
+1579774849616,33204,Get-List-Dates,200,OK,Async-API-Testing 1-7,text,true,,1228,277,16,16,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-list-dates?ListingId=353&StartDate=2020-01-01&EndDate=2020-12-31,33204,0,55
+1579774849612,33211,Get-List-Dates,200,OK,Async-API-Testing 1-30,text,true,,1228,277,13,13,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-list-dates?ListingId=353&StartDate=2020-01-01&EndDate=2020-12-31,33211,0,61
+1579774849610,33226,Get-List-Dates,200,OK,Async-API-Testing 1-8,text,true,,1228,277,12,12,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-list-dates?ListingId=353&StartDate=2020-01-01&EndDate=2020-12-31,33213,0,21
+1579774849852,33041,Get-List-Dates,200,OK,Async-API-Testing 1-44,text,true,,1228,277,11,11,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-list-dates?ListingId=353&StartDate=2020-01-01&EndDate=2020-12-31,33041,0,44
+1579774847816,35085,Get-List-Dates,200,OK,Async-API-Testing 1-6,text,true,,1228,277,10,10,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-list-dates?ListingId=353&StartDate=2020-01-01&EndDate=2020-12-31,35084,0,15
+1579774849609,33292,Get-List-Dates,200,OK,Async-API-Testing 1-26,text,true,,1228,277,10,10,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-list-dates?ListingId=353&StartDate=2020-01-01&EndDate=2020-12-31,33292,0,59
+1579774849936,32965,Get-List-Dates,200,OK,Async-API-Testing 1-38,text,true,,1228,277,10,10,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-list-dates?ListingId=353&StartDate=2020-01-01&EndDate=2020-12-31,32965,0,15
+1579774849607,33295,Get-List-Dates,200,OK,Async-API-Testing 1-41,text,true,,1228,277,7,7,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-list-dates?ListingId=353&StartDate=2020-01-01&EndDate=2020-12-31,33294,0,52
+1579774845355,37557,Get-List-Dates,200,OK,Async-API-Testing 1-14,text,true,,1228,277,6,6,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-list-dates?ListingId=353&StartDate=2020-01-01&EndDate=2020-12-31,37557,0,18
+1579774849857,33062,Get-List-Dates,200,OK,Async-API-Testing 1-27,text,true,,1228,277,5,5,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-list-dates?ListingId=353&StartDate=2020-01-01&EndDate=2020-12-31,33062,0,48
+1579774849992,32959,Get-List-Dates,200,OK,Async-API-Testing 1-4,text,true,,1228,277,4,4,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-list-dates?ListingId=353&StartDate=2020-01-01&EndDate=2020-12-31,32958,0,22
+1579774849855,33109,Get-List-Dates,200,OK,Async-API-Testing 1-32,text,true,,1228,277,3,3,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-list-dates?ListingId=353&StartDate=2020-01-01&EndDate=2020-12-31,33109,0,42
+1579774849854,33126,Get-List-Dates,200,OK,Async-API-Testing 1-22,text,true,,1228,277,2,2,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-list-dates?ListingId=353&StartDate=2020-01-01&EndDate=2020-12-31,33126,0,27
+1579774849617,33400,Get-List-Dates,200,OK,Async-API-Testing 1-15,text,true,,1228,277,1,1,https://stg-api-v2.shearshare.com/api/v4/SalonListing/get-list-dates?ListingId=353&StartDate=2020-01-01&EndDate=2020-12-31,33400,0,54
